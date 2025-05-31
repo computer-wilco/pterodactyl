@@ -1,0 +1,20 @@
+{
+  "name": "pterodactyl",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/computer-wilco/pterodactyl#readme",
+  "bugs": {
+    "url": "https://github.com/computer-wilco/pterodactyl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computer-wilco/pterodactyl.git"
+  },
+  "license": "MIT",
+  "author": "Wilco Joosen",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

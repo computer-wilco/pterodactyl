@@ -8,6 +8,8 @@ import { ip as IP } from 'ipadres';
 const app = express();
 const dirname = import.meta.dirname;
 
+const PORT = 8888;
+
 // Logginglog
 const color = logginglog.colors();
 const serverlog = logginglog.makeLogger('WExpress', color.rainbow);

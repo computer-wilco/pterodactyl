@@ -15,6 +15,13 @@
   "type": "module",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "npx -y Jelmerro/nus"
+  },
+  "dependencies": {
+    "ejs": "3.1.10",
+    "express": "5.1.0",
+    "ipadres": "1.0.0",
+    "logginglog": "1.0.0"
   }
 }

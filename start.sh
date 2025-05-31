@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if [[ -d .git ]] && [[ 1 == "1" ]]; then
     git pull
 fi

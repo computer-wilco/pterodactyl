@@ -82,3 +82,4 @@ const server = createServer(app);
 
 server.listen(PORT);
 serverlog(`WExpress server gestart op ${IP}:${PORT}`);
+console.log("mark>running");

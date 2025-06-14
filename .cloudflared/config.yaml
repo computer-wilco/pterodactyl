@@ -1,0 +1,7 @@
+tunnel: pterodactyl
+credentials-file: /home/container/.cloudflared/7254d445-90ee-41c4-a1cf-54b1a3d4fd29.json
+
+ingress:
+  - hostname: pterodactyl.wilcowebsite.nl
+    service: http://localhost:8888
+  - service: http_status:404

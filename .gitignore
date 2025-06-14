@@ -1,1 +1,3 @@
 node_modules
+.cloudflared/cert.pem
+.cloudflared/7254d445-90ee-41c4-a1cf-54b1a3d4fd29.json
